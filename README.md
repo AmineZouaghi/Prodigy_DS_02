@@ -13,7 +13,7 @@ The main components of this project include:
 
 ## 📂 Folder Structure
 - **titanic_data_analysis.ipynb**: The main notebook that contains all the code, data cleaning, feature engineering, EDA, and model fitting.
-- **data/titanic.csv**: The Titanic dataset (or provide a link to Kaggle if necessary).
+- **titanic.csv**: The Titanic dataset (or provide a link to Kaggle if necessary).
 
 ---
 
